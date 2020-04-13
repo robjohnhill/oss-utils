@@ -1,4 +1,4 @@
-package uk.co.myopensourcesolutions.first.api;
+package uk.co.myopensourcesolutions.world.api;
 
 public class TestResponse {
     private int status;

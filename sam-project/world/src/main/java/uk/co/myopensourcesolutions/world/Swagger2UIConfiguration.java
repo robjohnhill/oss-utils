@@ -1,4 +1,4 @@
-package uk.co.myopensourcesolutions.first;
+package uk.co.myopensourcesolutions.world;
 
 import com.google.common.base.Predicates;
 import org.springframework.context.annotation.Bean;
